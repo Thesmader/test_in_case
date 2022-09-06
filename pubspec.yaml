@@ -1,0 +1,14 @@
+name: test_in_case
+description: Test utility to minimise code duplication for repetitive test cases.
+version: 0.0.1
+homepage: https://github.com/Thesmader/test_in_case
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+dependencies:
+  meta: ^1.7.0
+  test: ^1.19.3
+
+dev_dependencies:
+  lints: ^1.0.0
